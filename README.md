@@ -1,3 +1,4 @@
+[Back to homepage](https://mhassan206.github.io/reading-notes/)
 # class06
 
 ## Dynamic web pages with JavaScript
@@ -20,3 +21,5 @@ The "assignment" operator is to assign a value to a variable.
 > examlle: const Y = 2
 - const variable unchangeble after
 - let varibale is changeble
+### What is information received from the user called?
+- The Information received from the user is typically called "input.
